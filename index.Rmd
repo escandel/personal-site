@@ -1,5 +1,6 @@
 ---
 title: "Xavi's Website"
+site: bookdown::bookdown_site
 ---
 
 Hello, World!
